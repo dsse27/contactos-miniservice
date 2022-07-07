@@ -1,0 +1,9 @@
+{
+  "name": "contactos-miniservice",
+  "version": "1.0.0",
+  "description": "Implementación de un miniservicio del dominio Contactos",
+  "main": "index.js",
+  "author": "Daniel Salazar <daniel.salazar@netmagica.com>",
+  "license": "MIT",
+  "private": true
+}
